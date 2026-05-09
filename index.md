@@ -103,7 +103,7 @@ Esta aplicación no está dirigida a menores de 13 años. No recopilamos conscie
 
 Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en:
 
-**Email:** serpadev@gmail.com  
+**Email:** serpadvlp@gmail.com  
 **Aplicación:** Calculadora de Ladrillos — com.serpadev.app_ladrillos
 
 ---
